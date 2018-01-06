@@ -1,0 +1,22 @@
+/* This is a comment*/
+/* CSS Syntax
+CSS is made up on selectors{ property: value;
+
+as many properties and values as you'd like, ends in semi colon to show
+value is done}
+*/
+
+/*Type Selector*/
+
+p{/* select all <p> */
+font-size: 1em; /* 16px(exact), ?pt(may differ from browsers), 100%(relative), 1em(size of an m) */
+line-height: 1.5em;
+
+}
+
+figcaption{
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;
+}
