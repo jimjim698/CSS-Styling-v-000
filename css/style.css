@@ -25,7 +25,7 @@ figcaption{
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
-  font: /* can be short hand for all above*/ normal 0.75em/1em "Elsie Swash Caps", "New Times Toman", serif;
+  font: /* can be short hand for all above*/ normal 0.75em/1em "Elsie Swash Caps", cursive;
 color: #777;
 text-align: right;
 }
