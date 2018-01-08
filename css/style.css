@@ -73,8 +73,8 @@ text-shadow: 0 2px 3px #000;
   color: red;
 }
 
-#nav a:visited{
+#nav a:link{
 color: black;
-text-decoration: overline;
+text-decoration: line-through;
 
 }
