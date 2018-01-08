@@ -75,6 +75,6 @@ text-shadow: 0 2px 3px #000;
 
 #nav a:visited{
 color: black;
-text-decoration: inherit;
+text-decoration: overline;
 
 }
