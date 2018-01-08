@@ -42,3 +42,15 @@ text-shadow: 0 2px 3px #000;
 #logo{ /* select elements with id="logo" */
  background: aqua;
 }
+ /* Descendant Selector */
+
+ #logo h1{ /* selects h1s inside element id= logo */
+
+   font-family: "Clicker Script",cursive;
+
+ }
+
+ #logo h2{
+
+   font-family: "Elsie SwashCaps", cursive;
+ }
